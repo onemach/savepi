@@ -8,6 +8,7 @@ Not stable yet. Use at your own risk
 1. `cp` the project into your Pi. (Or download it directly)
 
 2. 
+
 ```bash
 ./savePi.sh
 ```
