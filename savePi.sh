@@ -17,7 +17,6 @@ mount_tmp_in_ram()
 	sudo /bin/bash -c 'echo "tmpfs /var/tmp tmpfs nodev,nosuid,size=50M 0 0" >> /etc/fstab'
 }
 
-
 main()
 {
 	/bin/echo -n "Do you want to turn off swap? [Y/n]:"
